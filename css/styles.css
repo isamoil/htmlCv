@@ -1,0 +1,68 @@
+body {
+    background-color: whitesmoke !important;
+}
+
+.standardText {
+    font-size: 14px;
+    color: #00ccff;
+}
+
+.title {
+    font-size: 16px;
+    color: #0000ff;
+    margin-top: 15px;
+}
+
+.imageLogo {
+    height: 50px;
+    width: 120px;
+}
+
+.mainPhoto {
+    width: 135px;
+    height: 180px;
+}
+
+.textHeight {
+    font-size: 14px;
+}
+
+.secondImportanceText {
+    font-size: 12px;
+}
+
+.iconPhone {
+    margin-left: 15px;
+    margin-top: 5px;
+}
+
+.iconEmail {
+    margin-top: 5px;
+}
+
+.iconMap {
+    margin-top: 5px;
+}
+
+.englishDiv {
+    margin-top: 70px;
+    font-size: 14px;
+}
+
+.frenchDiv {
+    margin-top: 33px;
+    font-size: 14px;
+}
+
+.russianDiv {
+    margin-top: 33px;
+    font-size: 14px;
+}
+
+.skillsDiv {
+    margin-top: 5px;
+}
+
+.hobbiesDiv {
+    margin-top: 217px;
+}
